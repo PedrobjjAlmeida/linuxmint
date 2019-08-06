@@ -26,3 +26,4 @@ Less: ler o conteudo Do arquivo como se fosse um leitor
 "Q" sair
 "|" filtrar
 Cat -n LICENSE|tail: SAir de um arquivo para  entrar em outro
+ok
